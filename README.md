@@ -5,7 +5,7 @@
 
 # Crop Recommendation System
 
-This repository contains the source code and documentation for a crop recommendation system based on machine learning. The system utilizes historical agricultural data and various machine learning algorithms to provide recommendations for suitable crops to grow in a given area.
+This repository contains the source code and documentation for a crop recommendation system based on machine learning. The system utilizes historical agricultural data and various Machine Learning algorithms to provide recommendations for suitable crops to grow in a given area.
 
 ## Table of Contents
 
