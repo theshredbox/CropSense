@@ -12,6 +12,9 @@ The major parameters considered here are:
 4. Rainfall
 
 ---
+Plant Disease Detection
+
+---
 
 ## :pushpin: **DATASET** 
 * The dataset reference was taken from https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
