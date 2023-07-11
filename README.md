@@ -12,7 +12,7 @@ The major parameters considered here are:
 4. Rainfall
 
 ---
-Plant Disease Detection
+## **Plant Disease Detection**
 
 ---
 
