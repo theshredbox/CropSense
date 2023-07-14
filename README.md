@@ -13,13 +13,21 @@ The major parameters considered here are:
 
 ---
 ## **Plant Disease Detection**
+Monitoring the crop's health is as important as ensuring the sufficiency of all other parameters. A ResNet transfer learning model is used for high-end image recognition. 
+The model is trained on different classes of images with different plant diseases and then the model is evaluated using the testing dataset. 
 
 ---
 
 ## :pushpin: **DATASET** 
+### RECOMMENDATION SYSTEM
 * The dataset reference was taken from https://www.kaggle.com/datasets/atharvaingle/crop-recommendation-dataset
-* The dataset contains various parameters such as the N, P, and K values in the soil and the overall climatic conditions that support the growth of certain crops.
+* The dataset contains various parameters such as the soil's N, P, and K values and the overall climatic conditions that support the growth of certain crops.
 * The dataset used for plant disease detection is the universal Plant Village dataset.
+
+### DISEASE DETECTION SYSTEM
+* The dataset reference was taken from https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
+* This dataset consists of about 87K rgb images of healthy and diseased crop leaves which is categorized into 38 different classes.
+* The total dataset is divided into 80/20 ratio of training and validation set preserving the directory structure. A new directory containing 33 test images is created later for prediction purpose.
 ---
 
 ## **:bar_chart: MODULE WORKFLOW**
