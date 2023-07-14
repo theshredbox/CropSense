@@ -53,7 +53,7 @@ The machine learning model used in this project will first have to be generated 
 ├── main
 │   ├── data
 │     ├── Crop Recommendation Dataset
-│     ├── Disease Detection Dataset  
+│     ├── Disease Detection Dataset (Gdrive link)
 │     
 │   ├── src
 │     ├── data visualization
